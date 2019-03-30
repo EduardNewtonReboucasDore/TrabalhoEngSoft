@@ -14,6 +14,7 @@ public class Principal {
 			for(int j = 3; j > 0; j --) {
 				//System.out.printf("%d %d: ",i,j);
 				j1.getGanhador(i, j);
+				
 			}
 		}
 	}
