@@ -1,4 +1,4 @@
-package edu.trabalho01;
+package edu.trabalho01.jogoPedraPapelTesoura;
 
 public class Jogo {
 	
